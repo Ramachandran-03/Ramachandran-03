@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Rocky
+- 👀 I’m interested in all type of coding...
+- 🌱 I’m currently learning B.tech ECE in Dr.M.G.R. University...
+- 📫 How to reach me my ig id rocky__.ram._ ...
+
+<!---
+Ramachandran-03/Ramachandran-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
